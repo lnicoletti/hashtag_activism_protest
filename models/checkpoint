@@ -1,2 +1,2 @@
-model_checkpoint_path: "lstm_var_w"
-all_model_checkpoint_paths: "lstm_var_w"
+model_checkpoint_path: "lstm_var_w_n"
+all_model_checkpoint_paths: "lstm_var_w_n"
